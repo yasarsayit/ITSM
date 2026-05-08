@@ -1,0 +1,376 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ITSM.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light" class="set-nav-dark">
+
+<head runat="server">
+    <meta charset="utf-8">
+    <title>SEÇİL KAUÇUK - BTYS</title>
+    <meta name="description" content="Page Description">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=5">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="img/favicon-192x192.png" type="image/png" sizes="192x192">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-tap-highlight" content="no">
+
+
+    <link rel="stylesheet" media="screen, print" href="plugins/waves/waves.min.css">
+    <link rel="stylesheet" media="screen, print" href="css/smartapp.css">
+    <link rel="stylesheet" media="screen, print" href="webfonts/smartadmin/sa-icons.css">
+    <link rel="stylesheet" media="screen, print" href="webfonts/fontawesome/fontawesome.css">
+
+    <script src="scripts/core/saveloadscript.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+        .app-wrap {
+            grid-template-areas: "sidebar main"
+                "sidebar main";
+        }
+
+        .app-header {
+            background-color: #f7f9fb !important;
+            background: #f7f9fb !important;
+            border-bottom: none !important;
+            box-shadow: none !important;
+            -webkit-box-shadow: none !important;
+        }
+
+
+            .app-header::after,
+            .app-header::before {
+                display: none !important;
+            }
+
+            .page-logo,
+            .app-header .app-logo,
+            .page-sidebar .page-logo,
+            .app-sidebar {
+                background-color: #0F406B !important;
+                background: #0F406B !important;
+            }
+
+
+        .notification-header .info-card-text,
+        .notification-header .info-card-text div,
+        .notification-header .info-card-text span {
+            color: #ffffff !important;
+        }
+
+        .notification-header {
+            background-color: #0F406B !important;
+        }
+
+        .panel-hdr,
+        .panel-header,
+        .card-header,
+        [class*="bg-vibrant-"],
+        [class*="bg-primary-"],
+        .bg-primary-500 {
+            background-color: #0F406B !important;
+            background-image: none !important;
+            box-shadow: none !important;
+            color: white !important;
+        }
+
+
+        :root {
+            --primary-500: #0F406B !important;
+            --primary-600: #0a2d4b !important;
+            --primary-700: #071f33 !important;
+        }
+
+
+        .nav-menu li.active > a {
+            background-color: #0F406B !important;
+        }
+
+
+        .btn-primary,
+        .page-item.active .page-link {
+            background-color: #0F406B !important;
+            border-color: #0F406B !important;
+        }
+
+
+        .subheader-title, .text-primary {
+            color: #0F406B !important;
+        }
+
+        .mobile-menu-icon {
+            background-color: transparent !important;
+            border-color: transparent !important;
+            color: #0F406B !important;
+
+            .mobile-menu-icon .sa-icon,
+            .mobile-menu-icon svg {
+                fill: #0F406B !important;
+                stroke: #0F406B !important;
+                width: 24px;
+                height: 24px;
+            }
+
+            .mobile-menu-icon:hover,
+            .mobile-menu-icon:focus {
+                background-color: rgba(15, 64, 107, 0.1) !important;
+                color: #0F406B !important;
+            }
+
+            @media (max-width: 991px) {
+                .app-sidebar {
+                    transition: transform 0.3s ease-in-out !important;
+                }
+            }
+
+            .mobile-menu-icon svg {
+                fill: #0F406B !important;
+                width: 28px;
+                height: 28px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div class="app-wrap">
+
+
+            <aside class="app-sidebar d-flex flex-column">
+                <div class="logo-wrapper" style="background-color: #0F406B;">
+                    <a href="Default.aspx" class="app-logo" style="display: flex; align-items: center; padding: 10px;">
+                        <img src="img/login-logo.jpg" alt="logo" style="width: 50px; height: 50px; mix-blend-mode: screen;">
+                    </a>
+                </div>
+
+                <nav id="js-primary-nav" class="primary-nav flex-grow-1 custom-scroll">
+                    <ul id="js-nav-menu" class="nav-menu">
+                        <li id="liTopicParent" runat="server">
+
+                            <a href="#" title="Topic" data-filter-tags="requests topic list">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#file-text"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("topic","Topic")%></span>
+                            </a>
+                            <ul>
+                                <li>
+                                    <a href="Topic.aspx" title="Topic">
+                                        <span class="nav-link-text"><%= gettext("topic","Topic")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="TopicList.aspx" title="Topic List">
+                                        <span class="nav-link-text"><%= gettext("topiclist","Topic List")%></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li id="liInventoryParent" runat="server">
+                            <a href="#" title="Inventory" data-filter-tags="software device users">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#cpu"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("inventory","Inventory")%></span>
+                            </a>
+                            <ul>
+                                <li>
+                                    <a href="Software.aspx" title="Software">
+                                        <span class="nav-link-text"><%= gettext("software","Software")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="Device.aspx" title="Device">
+                                        <span class="nav-link-text"><%= gettext("device","Device")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="AddDevices.aspx" title="AddDevice">
+                                        <span class="nav-link-text"><%= gettext("adddevice","Additional Device")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="Users.aspx" title="Users">
+                                        <span class="nav-link-text"><%= gettext("user","User")%></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+
+
+                        <li id="liReports" runat="server">
+                            <a href="#" title="Reports" data-filter-tags="Reports">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#file-text"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("reports","Reports")%></span>
+                            </a>
+                            <ul>
+                                <li>
+                                    <a href="UserDeviceReport.aspx" title="User-Device">
+                                        <span class="nav-link-text"><%= gettext("user-dev","User-Device")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="DeviceSoftwareReport.aspx" title="Software-Device">
+                                        <span class="nav-link-text"><%= gettext("sof-dev","Software-Device")%></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="AddDeviceDeviceReport.aspx" title="AddDevice-Device">
+                                        <span class="nav-link-text"><%= gettext("adddev-dev","AddDevice-Device")%></span>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </li>
+
+
+                        <li id="liAdminMenu" runat="server">
+                            <a href="Admin.aspx" title="Admin">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#user"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("admin","Admin")%></span>
+                            </a>
+                        </li>
+
+
+                        <li id="liCategoryMenu" runat="server">
+                            <a href="CategoryManagement.aspx" title="Tipleri Düzenle">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#edit"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("ctg","Category Edit")%></span>
+                            </a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="Requests.aspx" title="Requests">
+                                <svg class="sa-icon">
+                                    <use href="icons/sprite.svg#file-text"></use>
+                                </svg>
+                                <span class="nav-link-text"><%= gettext("requests","Requests")%></span>
+                            </a>
+                        </li>
+
+                        <li class="mt-auto px-3 py-4" style="border-top: 1px solid rgba(255, 255, 255, 0.1); background-color: rgba(0, 0, 0, 0.05);">
+                            <div class="d-flex align-items-center mb-3">
+
+                                <div class="d-flex align-items-center justify-content-center rounded-circle shadow-sm"
+                                    style="width: 45px; height: 45px; background-color: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255, 255, 255, 0.2); flex-shrink: 0; margin-right: 12px;">
+                                    <svg class="sa-icon" style="fill: #ffffff; width: 22px; height: 22px;">
+                                        <use href="icons/sprite.svg#user"></use>
+                                    </svg>
+                                </div>
+
+                                <div class="d-flex flex-column overflow-hidden text-truncate w-100">
+                                    <span class="text-white fw-bold text-truncate" style="font-size: 14px; letter-spacing: 0.3px;">
+                                        <asp:Literal ID="ltName" runat="server"></asp:Literal>
+                                    </span>
+                                    <span class="text-white text-truncate mt-1" style="opacity: 0.8; font-size: 12px;">
+                                        <asp:Literal ID="ltUser" runat="server"></asp:Literal>
+                                    </span>
+                                    <span class="text-white text-truncate" style="opacity: 0.5; font-size: 11px;">
+                                        <asp:Literal ID="lbEmail" runat="server"></asp:Literal>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <asp:LinkButton runat="server" ID="lbLogOut" class="btn btn-outline-danger btn-sm w-100 d-flex justify-content-center align-items-center transition-hover" OnClick="lbLogOut_Click" Style="border-radius: 6px; padding: 8px;">
+        <span class="fw-bold" style="letter-spacing: 0.5px;"><%= gettext("logout","Logout")%></span>
+                            </asp:LinkButton>
+                        </li>
+                    </ul>
+                </nav>
+            </aside>
+
+            <div class="backdrop" data-action="toggle-swap" data-toggleclass="app-mobile-menu-open"></div>
+
+            <main class="app-body">
+                <div class="app-content">
+                    <div class="content-wrapper">
+                        <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap gap-2">
+                            <h1 class="subheader-title mb-0"><%= Page.Title %></h1>
+
+                            <div class="d-flex align-items-center" style="min-width: 120px;">
+                                <asp:DropDownList ID="ddlLang"
+                                    runat="server"
+                                    AutoPostBack="true"
+                                    OnSelectedIndexChanged="ddlLang_SelectedIndexChanged"
+                                    CssClass="form-select form-select-sm"
+                                    Style="max-width: 100px;">
+                                </asp:DropDownList>
+                            </div>
+                        </div>
+
+
+
+                        <div class="content">
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+
+
+    </form>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script src="plugins/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="scripts/core/smartNavigation.js"></script>
+<script src="scripts/core/smartFilter.js"></script>
+<script src="scripts/core/smartSlimscroll.js"></script>
+<script src="plugins/sortablejs/Sortable.min.js"></script>
+<script src="plugins/waves/waves.min.js"></script>
+<script src="scripts/core/smartApp.js"></script>
+
+<script>
+    const sideNavMenu = document.getElementById("js-nav-menu");
+    const currentUrl = window.location.href.split(/[?#]/)[0];
+    const allLinks = sideNavMenu.querySelectorAll("a");
+
+    allLinks.forEach((link) => {
+        if (link.href === currentUrl) {
+            link.classList.add("active");
+            let currentElement = link.closest("li");
+            while (currentElement && currentElement !== sideNavMenu) {
+                currentElement.classList.add("active");
+                currentElement = currentElement.parentElement.closest("li") || currentElement.parentElement;
+            }
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const mobBtn = document.querySelector('.mobile-menu-icon');
+        if (mobBtn) {
+            mobBtn.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.body.classList.toggle('app-mobile-menu-open');
+            });
+        }
+
+        const backdrop = document.querySelector('.backdrop');
+        if (backdrop) {
+            backdrop.addEventListener('click', function () {
+                document.body.classList.remove('app-mobile-menu-open');
+            });
+        }
+    });
+</script>

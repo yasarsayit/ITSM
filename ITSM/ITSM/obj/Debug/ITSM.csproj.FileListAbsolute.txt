@@ -1,0 +1,2084 @@
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\ITSM.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\System.Web.Optimization.xml
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\Newtonsoft.Json.xml
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\Antlr3.Runtime.pdb
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\PHT100769\Desktop\ITSM_stj\ITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMMM\ITSMaa\ITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMz (3)\ITSMz\ITSMz\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\IITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\IIITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\IIITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM2\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM2\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM3\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSM3\ITSM3\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM3\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM12\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSM12 - Kopya\ITSM\obj\Debug\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\ITSM.dll.config
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\ITSM.pdb
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\Buse.aktolon\Desktop\ITSMITSM\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\ITSM.dll.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\csi.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Console.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL\ITSMGÜNCEL\ITSM\obj\Debug\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.dll.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.pdb
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\mustafa.duran\Desktop\ITSMGÜNCEL 8.04\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 8.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.dll.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.pdb
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar.sayit\Desktop\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.dll.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 9.04\ITSMGÜNCEL 9.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.dll.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Buffers.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Formats.Asn1.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Memory.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Numerics.Vectors.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Security.Principal.Windows.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Buffers.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Formats.Asn1.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Memory.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Numerics.Vectors.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\bin\System.Security.Principal.Windows.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.dll.config
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\ITSM.pdb
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.exe
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.exe
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Buffers.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Formats.Asn1.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Memory.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Numerics.Vectors.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Security.Principal.Windows.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Buffers.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Formats.Asn1.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Memory.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Numerics.Vectors.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\bin\System.Security.Principal.Windows.xml
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\PHT100769\Desktop\ITSMGÜNCEL 10.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.pdb
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.xml
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.pdb
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll.config
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.pdb
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe.config
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.rsp
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe.config
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.rsp
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.AppContext.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Console.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Http.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.ValueTuple.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe.config
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.rsp
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.xml
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.dll
+\\STR3301PCD013CF\Users\pia077689\Desktop\staj\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll.config
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\ITSM.pdb
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Buffers.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Formats.Asn1.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Memory.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Numerics.Vectors.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\bin\System.Security.Principal.Windows.xml
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar\Desktop\ITSMGÜNCEL 17.04\ITSM\obj\Debug\ITSM.pdb
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\ITSM.dll.config
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\ITSM.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\ITSM.pdb
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csc.exe
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csc.exe.config
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csc.rsp
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csi.exe
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csi.exe.config
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\csi.rsp
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.AppContext.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Console.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Http.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.ValueTuple.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\vbc.exe.config
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\vbc.rsp
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\Microsoft.Bcl.Cryptography.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Buffers.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Formats.Asn1.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Memory.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Numerics.Vectors.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Security.Principal.Windows.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\Microsoft.Bcl.Cryptography.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Buffers.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Formats.Asn1.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Memory.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Numerics.Vectors.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\bin\System.Security.Principal.Windows.xml
+C:\Users\yasar\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.AssemblyReference.cache
+C:\Users\yasar\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\ITSM\ITSM\obj\Debug\ITSM.csproj.Up2Date
+C:\Users\yasar\Desktop\ITSM\ITSM\obj\Debug\ITSM.dll
+C:\Users\yasar\Desktop\ITSM\ITSM\obj\Debug\ITSM.pdb

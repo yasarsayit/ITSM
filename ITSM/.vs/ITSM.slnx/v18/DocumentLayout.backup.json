@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\Desktop\\ITSM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162F468A-4C2D-43BE-94C7-65DE8044559D}|ITSM\\ITSM.csproj|c:\\users\\yasar\\desktop\\itsm\\itsm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{162F468A-4C2D-43BE-94C7-65DE8044559D}|ITSM\\ITSM.csproj|solutionrelative:itsm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\yasar\\Desktop\\ITSM\\ITSM\\Login.aspx",
+              "RelativeDocumentMoniker": "ITSM\\Login.aspx",
+              "ToolTip": "C:\\Users\\yasar\\Desktop\\ITSM\\ITSM\\Login.aspx",
+              "RelativeToolTip": "ITSM\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-07T11:31:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
